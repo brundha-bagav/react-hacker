@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-hacker/static/css/main.49fa15e1.chunk.css",
+    "main.js": "/react-hacker/static/js/main.911c0f29.chunk.js",
+    "main.js.map": "/react-hacker/static/js/main.911c0f29.chunk.js.map",
+    "runtime-main.js": "/react-hacker/static/js/runtime-main.a3827019.js",
+    "runtime-main.js.map": "/react-hacker/static/js/runtime-main.a3827019.js.map",
+    "static/css/2.b2f10d07.chunk.css": "/react-hacker/static/css/2.b2f10d07.chunk.css",
+    "static/js/2.48fc0e3e.chunk.js": "/react-hacker/static/js/2.48fc0e3e.chunk.js",
+    "static/js/2.48fc0e3e.chunk.js.map": "/react-hacker/static/js/2.48fc0e3e.chunk.js.map",
+    "static/js/3.14092886.chunk.js": "/react-hacker/static/js/3.14092886.chunk.js",
+    "static/js/3.14092886.chunk.js.map": "/react-hacker/static/js/3.14092886.chunk.js.map",
+    "index.html": "/react-hacker/index.html",
+    "static/css/2.b2f10d07.chunk.css.map": "/react-hacker/static/css/2.b2f10d07.chunk.css.map",
+    "static/css/main.49fa15e1.chunk.css.map": "/react-hacker/static/css/main.49fa15e1.chunk.css.map",
+    "static/js/2.48fc0e3e.chunk.js.LICENSE.txt": "/react-hacker/static/js/2.48fc0e3e.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/react-hacker/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3827019.js",
+    "static/css/2.b2f10d07.chunk.css",
+    "static/js/2.48fc0e3e.chunk.js",
+    "static/css/main.49fa15e1.chunk.css",
+    "static/js/main.911c0f29.chunk.js"
+  ]
+}
